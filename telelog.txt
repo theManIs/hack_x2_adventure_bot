@@ -1,0 +1,202 @@
+{"update_id":554263518,
+"message":{"message_id":143,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476604898,"text":"fuck up"}}
+{"update_id":554263519,
+"message":{"message_id":144,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476604957,"text":"suck up"}}
+{"update_id":554263520,
+"message":{"message_id":145,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605118,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263521,
+"message":{"message_id":146,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605210,"text":"\u043f\u043e\u0441\u043b\u0430\u0442\u044c"}}
+{"update_id":554263522,
+"message":{"message_id":148,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605261,"text":"\u043d\u0430\u0441\u043b\u0430\u0442\u044c"}}
+{"update_id":554263523,
+"message":{"message_id":150,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605266,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263524,
+"message":{"message_id":152,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605276,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0441\u043d\u0430\u0447\u0430\u043b\u0430"}}
+{"update_id":554263525,
+"message":{"message_id":154,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605284,"text":"\u043d\u0430\u0447\u0430\u0442\u044c  \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263526,
+"message":{"message_id":156,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605371,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263527,
+"message":{"message_id":159,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605533,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263528,
+"message":{"message_id":161,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605547,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0431\u0435\u0433\u0438"}}
+{"update_id":554263529,
+"message":{"message_id":163,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605554,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263530,
+"message":{"message_id":165,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605568,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263531,
+"message":{"message_id":167,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476605607,"text":"\u0432\u0430\u0444"}}
+{"update_id":554263532,
+"message":{"message_id":169,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605629,"text":"\u041f\u0440\u0438\u0432\u0435\u0442"}}
+{"update_id":554263533,
+"message":{"message_id":171,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605644,"text":"\u041a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263534,
+"message":{"message_id":173,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605661,"text":"\u041a\u043e\u043c\u0430\u043d\u0434\u0430 \u0431\u043e\u043c\u0436\u0438"}}
+{"update_id":554263535,
+"message":{"message_id":175,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605678,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0431\u043e\u043c\u0436"}}
+{"update_id":554263536,
+"message":{"message_id":177,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605686,"text":"\u0423\u0440\u0430!"}}
+{"update_id":554263537,
+"message":{"message_id":179,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476605700,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263542,
+"message":{"message_id":185,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606057,"text":"\u043c\u0444\u0432\u044b\u0430"}}
+{"update_id":554263543,
+"message":{"message_id":187,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606075,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263544,
+"message":{"message_id":189,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606128,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263545,
+"message":{"message_id":191,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606141,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263546,
+"message":{"message_id":194,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606195,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263547,
+"message":{"message_id":196,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476606214,"text":"\u041c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263548,
+"message":{"message_id":198,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476607183,"text":"\/start","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+{"update_id":554263549,
+"message":{"message_id":202,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476607191,"text":"\/start","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+{"update_id":554263550,
+"message":{"message_id":206,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476607203,"text":"\u0445\u0435\u0440\u043d\u044f"}}
+{"update_id":554263551,
+"message":{"message_id":208,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476607209,"text":"\/start","entities":[{"type":"bot_command","offset":0,"length":6}]}}
+{"update_id":554263552,
+"message":{"message_id":212,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476607227,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263553,
+"message":{"message_id":214,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476607242,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263554,
+"message":{"message_id":216,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476607364,"text":"sd"}}
+{"update_id":554263558,
+"message":{"message_id":220,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476607800,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263559,
+"message":{"message_id":228,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476607852,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263560,
+"message":{"message_id":233,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476607906,"text":"\u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0433\u043b\u0430\u0437\u0430"}}
+{"update_id":554263561,
+"message":{"message_id":237,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608156,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263562,
+"message":{"message_id":244,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608236,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263563,
+"message":{"message_id":248,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608241,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263564,
+"message":{"message_id":255,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608388,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263565,
+"message":{"message_id":262,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608429,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263566,
+"message":{"message_id":266,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608501,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263567,
+"message":{"message_id":273,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608527,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263568,
+"message":{"message_id":280,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608659,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263569,
+"message":{"message_id":284,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608710,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263570,
+"message":{"message_id":291,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608749,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263571,
+"message":{"message_id":295,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608755,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263572,
+"message":{"message_id":299,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608856,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263573,
+"message":{"message_id":303,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476608953,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263574,
+"message":{"message_id":307,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609020,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263575,
+"message":{"message_id":311,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609103,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263576,
+"message":{"message_id":315,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609168,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263577,
+"message":{"message_id":322,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609199,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263578,
+"message":{"message_id":329,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609698,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263579,
+"message":{"message_id":331,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476609751,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263580,
+"message":{"message_id":333,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476610175,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263581,
+"message":{"message_id":335,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476610177,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263582,
+"message":{"message_id":337,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476610178,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263583,
+"message":{"message_id":339,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476610183,"text":"\u0448\u0443\u0442\u0430"}}
+{"update_id":554263584,
+"message":{"message_id":341,"from":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov"},"chat":{"id":3421325,"first_name":"Misha","last_name":"Ershov","username":"mershov","type":"private"},"date":1476610186,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263585,
+"message":{"message_id":343,"from":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476610255,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u043b\u0430"}}
+{"update_id":554263586,
+"message":{"message_id":345,"from":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476610263,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263587,
+"message":{"message_id":347,"from":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":137617601,"first_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476610272,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263593,
+"message":{"message_id":354,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476610927,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263594,
+"message":{"message_id":356,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611013,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263595,
+"message":{"message_id":358,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611077,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263596,
+"message":{"message_id":360,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611081,"text":"\u0445\u044d\u043b\u043f"}}
+{"update_id":554263597,
+"message":{"message_id":362,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611208,"text":"\u0445\u044d\u043b\u043f"}}
+{"update_id":554263598,
+"message":{"message_id":364,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611241,"text":"\u0445\u044d\u043b\u043f"}}
+{"update_id":554263599,
+"message":{"message_id":366,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476611278,"text":"\u0448\u0443\u0442\u043a\u0430"}}
+{"update_id":554263600,
+"message":{"message_id":368,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615226,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263601,
+"message":{"message_id":375,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615383,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263602,
+"message":{"message_id":377,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615399,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263603,
+"message":{"message_id":384,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615407,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263604,
+"message":{"message_id":391,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615683,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0441\u043d\u0430\u0447\u0430\u043b\u0430"}}
+{"update_id":554263605,
+"message":{"message_id":393,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615691,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263606,
+"message":{"message_id":400,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615705,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263607,
+"message":{"message_id":407,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615859,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263608,
+"message":{"message_id":414,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615868,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263609,
+"message":{"message_id":421,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615956,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263610,
+"message":{"message_id":428,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476615963,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263611,
+"message":{"message_id":435,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476616900,"text":"\u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0433\u043b\u0430\u0437\u0430"}}
+{"update_id":554263612,
+"message":{"message_id":442,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617130,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263613,
+"message":{"message_id":444,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617151,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263614,
+"message":{"message_id":446,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617159,"text":"\u043c\u043e\u044f \u043a\u043e\u043c\u0430\u043d\u0434\u0430"}}
+{"update_id":554263615,
+"message":{"message_id":448,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617236,"text":"\u0432\u0441\u0442\u0430\u0442\u044c"}}
+{"update_id":554263616,
+"message":{"message_id":453,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617249,"text":"\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c\u0441\u044f"}}
+{"update_id":554263617,
+"message":{"message_id":458,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617281,"text":"\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c"}}
+{"update_id":554263618,
+"message":{"message_id":463,"from":{"id":231211491,"first_name":"Denis","last_name":"Smirnov"},"chat":{"id":231211491,"first_name":"Denis","last_name":"Smirnov","type":"private"},"date":1476617294,"text":"\u0432\u0437\u044f\u0442\u044c"}}
+{"update_id":554263619,
+"message":{"message_id":468,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617422,"text":"\u043a\u043e\u043c\u0430\u043d\u0414\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263620,
+"message":{"message_id":470,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617433,"text":"\u041a\u043e\u043c\u0410\u043d\u0434\u0410 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263621,
+"message":{"message_id":472,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617709,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263622,
+"message":{"message_id":482,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617724,"text":"\u043a\u043e\u043c\u0430\u043d\u0434\u0430 \u0440\u0432\u043e\u0442\u0430"}}
+{"update_id":554263623,
+"message":{"message_id":484,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617731,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263624,
+"message":{"message_id":494,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476617766,"text":"\u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0433\u043b\u0430\u0437\u0430"}}
+{"update_id":554263625,
+"message":{"message_id":497,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476618744,"text":"\u043b\u0435\u0436\u0430\u0442\u044c"}}
+{"update_id":554263626,
+"message":{"message_id":499,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476618765,"text":"\u0434\u0443\u043c\u0430\u0442\u044c"}}
+{"update_id":554263628,
+"message":{"message_id":502,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476618832,"text":"\u0432\u0441\u0442\u0430\u0442\u044c"}}
+{"update_id":554263629,
+"message":{"message_id":504,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476618848,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0437\u0430\u043d\u043e\u0432\u043e"}}
+{"update_id":554263630,
+"message":{"message_id":507,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476618851,"text":"\u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0433\u0440\u0443"}}
+{"update_id":554263631,
+"message":{"message_id":510,"from":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c"},"chat":{"id":246556100,"first_name":"\u041c\u0438\u0442\u0440\u0443\u0448\u043e\u0432","last_name":"\u0410\u0440\u0442\u0451\u043c","type":"private"},"date":1476619023,"text":"\u043e\u0431\u0438\u0434\u0430"}}
